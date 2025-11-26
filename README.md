@@ -214,6 +214,6 @@ or extraction of components.
 
 ***
 
-**Made with ❤️ for developers who want AI that actually works with their entire system.**
+**Made with ❤️ for developers who want AI that actually works without babysitting.**
 
 ***
