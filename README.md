@@ -19,22 +19,8 @@ cd impulse-standalone-20251126
 ./impulse
 ```
 
-**That's it!** Impulse is now running with full AI capabilities.
 
-## 📦 What's Included
-
-- ✅ **Impulse Editor** (128MB) - Full-featured code editor
-- ✅ **LSP Server** (76MB) - Automatic code intelligence with AI
-- ✅ **VNC Viewer** - Integrated remote desktop support
-- ✅ **xdotool** - X11 automation
-- ✅ **wmctrl** - Window management
-- ✅ **git** - Version control
-- ✅ **scrot** - Screenshot utility
-- ✅ **xdg-open** - File/URL opener
-- ✅ **trash-put** - Safe file deletion
-- ✅ **API Keys Included** - Pre-configured AI access
-
-## 🖥️ Desktop Integration (Optional)
+## 🖥️ Desktop Integration 
 
 To add Impulse to your application menu:
 
@@ -193,9 +179,7 @@ for complete terms.
 **Prohibited:** Modification, redistribution of modified versions, reverse engineering, 
 or extraction of components.
 
-## 🙏 Acknowledgments
 
-Built on top of [Lapce](https://github.com/lapce/lapce) - A lightning-fast and powerful code editor written in Rust.
 
 ---
 
