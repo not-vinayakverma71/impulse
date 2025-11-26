@@ -18,20 +18,7 @@ cd impulse-standalone-20251126
 ./impulse
 ```
 
-**That's it!** Impulse is now running with full AI capabilities.
 
-## 📦 What's Included
-
-- ✅ **Impulse Editor** (128MB) - Full-featured code editor
-- ✅ **LSP Server** (76MB) - Automatic code intelligence with AI
-- ✅ **VNC Viewer** - Integrated remote desktop support
-- ✅ **xdotool** - X11 automation
-- ✅ **wmctrl** - Window management
-- ✅ **git** - Version control
-- ✅ **scrot** - Screenshot utility
-- ✅ **xdg-open** - File/URL opener
-- ✅ **trash-put** - Safe file deletion
-- ✅ **API Keys Included** - Pre-configured AI access
 
 ## 🖥️ Desktop Integration (Optional)
 
@@ -51,15 +38,6 @@ Now you can launch Impulse from your application menu!
 - **Disk:** 300MB for installation
 - **Libraries:** Standard glibc, GTK3 (pre-installed on most systems)
 
-## ✨ Features
-
-- 🤖 **AI-Powered Coding** - Integrated AI assistant with Gemini 2.5 Pro
-- 🔍 **LSP Integration** - Auto-completion, go-to-definition, refactoring
-- 📊 **VNC Tabs** - Remote desktop sessions within the editor
-- 🎨 **Modern UI** - Clean, responsive interface
-- 🔧 **Git Integration** - Built-in version control
-- 🚀 **Fast Startup** - Optimized for performance
-- 📝 **Syntax Highlighting** - Support for 100+ languages
 
 ## 🛠️ Advanced Installation
 
@@ -177,15 +155,6 @@ grep GEMINI_API_KEY /tmp/impulse_startup.log
 For issues, questions, or feature requests:
 - **GitHub:** [not-vinayakverma71/impulse](https://github.com/not-vinayakverma71/impulse)
 - **Email:** Support available through GitHub issues
+.
 
-## 📜 License
 
-This project is licensed under the MIT License.
-
-## 🙏 Acknowledgments
-
-Built on top of [Lapce](https://github.com/lapce/lapce) - A lightning-fast and powerful code editor written in Rust.
-
----
-
-**Made with ❤️ for developers who want AI-powered coding without the hassle.**
