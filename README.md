@@ -181,6 +181,8 @@ or extraction of components.
 
 
 
+**Note:** - The application is developed in Linux , Mac can have some bugs & Window is currently under development.
+
 ---
 
 **Made with ❤️ for developers who want AI-powered coding without the hassle.**
