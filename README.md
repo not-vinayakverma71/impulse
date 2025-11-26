@@ -1,7 +1,8 @@
 # Impulse - AI-Powered Code Editor for Linux
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Linux-orange.svg)]()
+[![Copyright](https://img.shields.io/badge/copyright-2025%20Vinayak%20Verma-blue.svg)]()
 
 **Impulse** is a powerful, self-contained AI-powered code editor with built-in Language Server Protocol (LSP) support and integrated Linux automation tools.
 
@@ -180,7 +181,17 @@ For issues, questions, or feature requests:
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+**Proprietary Software - All Rights Reserved**
+
+Copyright © 2025 Vinayak Verma. All Rights Reserved.
+
+This software is proprietary and confidential. Unauthorized copying, modification, 
+distribution, or reverse engineering is strictly prohibited. See [LICENSE](LICENSE) 
+for complete terms.
+
+**Permitted:** Personal and commercial use of the distributed package as-is.  
+**Prohibited:** Modification, redistribution of modified versions, reverse engineering, 
+or extraction of components.
 
 ## 🙏 Acknowledgments
 
