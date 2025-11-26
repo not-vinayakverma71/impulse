@@ -1,10 +1,27 @@
-# Impulse - AI-Powered Code Editor for Linux
+**Impulse** is the first AI code editor that can actually control your entire system—not just edit code.
 
-[![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Linux-orange.svg)]()
-[![Copyright](https://img.shields.io/badge/copyright-2025%20Vinayak%20Verma-blue.svg)]()
+## 🎯 What Makes Impulse Different?
 
-**Impulse** is a powerful, self-contained AI-powered code editor with built-in Language Server Protocol (LSP) support and integrated Linux automation tools.
+### System-Level AI Control (The Moat)
+Unlike Cursor, Windsurf, and other browser-based editors, Impulse runs natively with full OS access:
+- **AI controls desktop applications** - Launch apps, interact with UI, run tests on any software
+- **Execute system commands** - Full terminal automation with transparent logging
+- **Test beyond the browser** - Desktop apps, mobile emulators, custom tools (not just web)
+- **Virtual Display** - See every AI action in real-time, grant permissions like terminal access.
+
+**Why competitors can't copy this:** Cursor and Windsurf are built on Electron (browser sandbox). They're physically blocked from system-level control. We're native. They'd need to rewrite everything.
+
+### Memory Efficient & Stable
+- **Editor:** <150MB RAM
+- **LSP:** <200MB RAM  
+- **Competitors:** 1.5GB+ for the same features
+
+Built for long AI sessions. No memory leaks, no crashes, no system freezes.
+
+### Built on Rust
+Native performance, memory safety, and full OS integration out of the box.
+
+***
 
 ## 🚀 Quick Start (3 Commands)
 
@@ -19,6 +36,7 @@ cd impulse-standalone-20251126
 ./impulse
 ```
 
+***
 
 ## 🖥️ Desktop Integration 
 
@@ -31,6 +49,8 @@ cd impulse-standalone-20251126
 
 Now you can launch Impulse from your application menu!
 
+***
+
 ## 📋 System Requirements
 
 - **OS:** Linux (x86_64)
@@ -38,15 +58,7 @@ Now you can launch Impulse from your application menu!
 - **Disk:** 300MB for installation
 - **Libraries:** Standard glibc, GTK3 (pre-installed on most systems)
 
-## ✨ Features
-
-- 🤖 **AI-Powered Coding** - Integrated AI assistant with Gemini 2.5 Pro
-- 🔍 **LSP Integration** - Auto-completion, go-to-definition, refactoring
-- 📊 **VNC Tabs** - Remote desktop sessions within the editor
-- 🎨 **Modern UI** - Clean, responsive interface
-- 🔧 **Git Integration** - Built-in version control
-- 🚀 **Fast Startup** - Optimized for performance
-- 📝 **Syntax Highlighting** - Support for 100+ languages
+***
 
 ## 🛠️ Advanced Installation
 
@@ -83,9 +95,11 @@ export PATH="$HOME/.local/bin:$PATH"
 impulse
 ```
 
+***
+
 ## 🔑 API Keys
 
-API keys are pre-configured and included in the package. The editor will work immediately with AI features enabled.
+API keys are pre-configured and included in the package with rate limits. The editor will work immediately with AI features enabled.
 
 If you need to use your own API keys:
 1. Edit the `.env` file in the package directory
@@ -95,6 +109,8 @@ If you need to use your own API keys:
    OPENAI_API_KEY=your_key_here
    ```
 
+***
+
 ## 📝 Logs & Debugging
 
 Logs are stored in:
@@ -103,12 +119,16 @@ Logs are stored in:
 - **Startup log:** `/tmp/impulse_startup.log`
 - **Backend log:** `/tmp/impulse_backend.log`
 
+***
+
 ## 🔄 Updating
 
 To update to a new version:
 1. Download the new tarball
 2. Extract to a new directory or overwrite the old one
 3. Re-run `./register.sh` if using desktop integration
+
+***
 
 ## 🗑️ Uninstallation
 
@@ -128,6 +148,8 @@ sudo rm /usr/local/bin/impulse /usr/local/bin/language_server_impulse_x64
 ```bash
 rm ~/.local/bin/impulse ~/.local/bin/language_server_impulse_x64
 ```
+
+***
 
 ## 🐛 Troubleshooting
 
@@ -159,11 +181,15 @@ ls -la impulse-standalone-20251126/.env
 grep GEMINI_API_KEY /tmp/impulse_startup.log
 ```
 
+***
+
 ## 🤝 Support
 
 For issues, questions, or feature requests:
 - **GitHub:** [not-vinayakverma71/impulse](https://github.com/not-vinayakverma71/impulse)
 - **Email:** Support available through GitHub issues
+
+***
 
 ## 📜 License
 
@@ -179,10 +205,15 @@ for complete terms.
 **Prohibited:** Modification, redistribution of modified versions, reverse engineering, 
 or extraction of components.
 
+***
 
+**Platform Support:**
+- ✅ **Linux:** Fully tested and supported
+- ⚠️ **macOS:** Beta (may have bugs)
+- 🚧 **Windows:** Under development
 
-**Note:** - The application is developed in Linux , Mac can have some bugs & Window is currently under development.
+***
 
----
+**Made with ❤️ for developers who want AI that actually works with their entire system.**
 
-**Made with ❤️ for developers who want AI-powered coding without the hassle.**
+***
