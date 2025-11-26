@@ -2,7 +2,7 @@
 
 ## 🎯 What Makes Impulse Different?
 
-### System-Level AI Control (The Moat)
+### True Developer living inside your System
 Unlike Cursor, Windsurf, and other browser-based editors, Impulse runs natively with full OS access:
 - **AI controls desktop applications** - Launch apps, interact with UI, run tests on any software
 - **Execute system commands** - Full terminal automation with transparent logging
