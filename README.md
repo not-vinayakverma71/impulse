@@ -13,7 +13,7 @@ Unlike Cursor, Windsurf, and other browser-based editors, Impulse runs natively 
 
 ### Memory Efficient & Stable
 - **Editor:** <150MB RAM
-- **LSP:** <200MB RAM  
+- **LSP:** <500MB RAM  
 - **Competitors:** 1.5GB+ for the same features
 
 Built for long AI sessions. No memory leaks, no crashes, no system freezes.
@@ -214,6 +214,6 @@ or extraction of components.
 
 ***
 
-**Made with ❤️ for developers who want AI that actually works without babysitting.**
+**Made with ❤️ for developers who want AI that actually works without babysitting**
 
 ***
