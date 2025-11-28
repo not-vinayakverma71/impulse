@@ -209,7 +209,7 @@ or extraction of components.
 
 **Platform Support:**
 - ✅ **Linux:** Fully tested and supported
-- ⚠️ **macOS:** Beta (may have bugs)
+- ⚠️ **macOS:** Coming in few days.
 - 🚧 **Windows:** Under development
 
 ***
